@@ -1,0 +1,33 @@
+.container {
+  z-index: 1;
+}
+main {
+  border-image: conic-gradient(
+    from 53.5deg,
+    #f84499,
+    #f2a229,
+    #f2a229,
+    #0ec188,
+    #0ec188,
+    #338fed,
+    #338fed,
+    #241e70,
+    #241e70,
+    #8255df,
+    #8255df,
+    #f84499
+  );
+  border-image-slice: 100%;
+  border-width: 5px;
+  border-style: solid;
+  border-image-slice: 1;
+  z-index: 1;
+}
+.preset-plugin button {
+  border: 1px solid #ccc;
+}
+
+.calendar > .days-grid > .day.today {
+  color: var(--color-fg-default);
+  font-weight: bold;
+}

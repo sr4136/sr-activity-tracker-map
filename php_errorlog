@@ -1,0 +1,16 @@
+[31-Dec-2025 17:36:14 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "GOOGLE_MAPS_API_KEY" in /home/customer/www/steverudolfi.com/public_html/demos/sr-activity-tracker-map/index.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/steverudolfi.com/public_html/demos/sr-activity-tracker-map/index.php on line 27
+[31-Dec-2025 17:36:18 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "GOOGLE_MAPS_API_KEY" in /home/customer/www/steverudolfi.com/public_html/demos/sr-activity-tracker-map/index.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/steverudolfi.com/public_html/demos/sr-activity-tracker-map/index.php on line 27
+[31-Dec-2025 17:36:55 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "GOOGLE_MAPS_API_KEY" in /home/customer/www/steverudolfi.com/public_html/demos/sr-activity-tracker-map/index.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/steverudolfi.com/public_html/demos/sr-activity-tracker-map/index.php on line 27
+[31-Dec-2025 17:36:56 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "GOOGLE_MAPS_API_KEY" in /home/customer/www/steverudolfi.com/public_html/demos/sr-activity-tracker-map/index.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/steverudolfi.com/public_html/demos/sr-activity-tracker-map/index.php on line 27
