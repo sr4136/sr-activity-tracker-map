@@ -53,3 +53,4 @@ You can check out a [public demo](https://steverudolfi.com/demos/sr-activity-tra
 -   add an activity listing with checkboxes to compare/display specific activities
     -   This is in progress, check out [where it is in the code](https://github.com/sr4136/sr-activity-tracker-map/blob/main/map_init.js#L612-L659)
 -   the “latest activity” checkbox is sometimes buggy, ex: when multiple activities are within the same day
+-   use [Varlock](https://varlock.dev/) 
